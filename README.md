@@ -9,7 +9,7 @@
 - High school student developer
 - 4th year developer
 
-## 💻 Interests
+## 💻 Interested In
 - 🎮 **Game Engine**
 - ⚙️ **Compiler**
 - 🧠 **AI Research**
@@ -32,18 +32,9 @@
 
 ### 🎯 CubicEngine
 > A modular C++ game engine that abstracts OpenGL, allowing developers to focus purely on logic.
-- Core-managed architecture: `EngineCore`, `Managers`, `Application`
-- Scene → GameObject → Component structure
-- Unified rendering via `RenderManager` and polymorphic `Renderer`
-- Logger and Memory Management Systems integrated
 
 ### 🧩 Slent Language
 > A modern statically-typed scripting language designed for native integration.
-- Clean & readable syntax
-- Modular design
-- `extern "dll@function"` syntax for native DLL bindings
-- Dynamic extern loading via runtime linking system
-- Generational GC (working on it)
 
 ### 🧠 AI & Research
 - Explorations in LLM fine-tuning, data distillation, and hybrid model design
@@ -58,9 +49,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=airhood&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=airhood&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
-</p>
+</p> -->
 
 ---
 
