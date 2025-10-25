@@ -65,8 +65,8 @@
   <a href="[https://airhood.tistory.com](https://shinningcoding.tistory.com/)">
     <img src="https://img.shields.io/badge/Tistory-F7DF1E?style=for-the-badge&logo=tistory&logoColor=white"/>
   </a>
-  <a href="https://solved.ac/airhood">
+  <a href="https://solved.ac/profile/airhood2009">
   <img src="https://img.shields.io/badge/Solved.ac-5EAD00?style=for-the-badge&logo=solved.ac&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:ahn.hyunjun2009@gmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
