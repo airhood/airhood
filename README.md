@@ -7,12 +7,13 @@
 
 ## 🧭 About Me
 - High school student developer
-- 4th year developer
+- 5th year developer
 
 ## 💻 Interested In
 - 🎮 **Game Engine**
 - ⚙️ **Compiler**
 - 🧠 **AI Research**
+- ⚛️ **Quantum Computing**
 
 ---
 
@@ -37,7 +38,8 @@
 > A modern statically-typed scripting language designed for native integration.
 
 ### 🧠 AI & Research
-- Explorations in LLM fine-tuning, data distillation, and hybrid model design
+- Explorations in LLM fine-tuning, data distillation, few-shot learning
+- Interested in computer vision
 - Building agent system
 
 ---
