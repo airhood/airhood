@@ -38,8 +38,7 @@
 > A modern statically-typed scripting language designed for native integration.
 
 ### 🧠 AI & Research
-- Explorations in LLM fine-tuning, data distillation, few-shot learning
-- Interested in computer vision
+- Interested in computer vision, VLA, World Model
 - Building agent system
 
 ---
