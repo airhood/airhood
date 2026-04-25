@@ -10,10 +10,10 @@
 - 5th year developer
 
 ## 💻 Interested In
-- 🎮 **Game Engine**
-- ⚙️ **Compiler**
 - 🧠 **AI Research**
 - ⚛️ **Quantum Computing**
+- 🎮 **Graphics / Game Engine**
+- ⚙️ **Compiler**
 
 ---
 
@@ -39,7 +39,8 @@
 
 ### 🧠 AI & Research
 - Interested in computer vision, VLA, World Model
-- Building agent system
+- Researching distributed VLA inference architecture
+- Researching deep learning for molecular structure generation with target properties
 
 ---
 
