@@ -37,10 +37,16 @@
 ### 🧩 Slent Language
 > A modern statically-typed scripting language designed for native integration.
 
-### 🧠 AI & Research
-- Interested in computer vision, VLA, World Model
-- Researching distributed VLA inference architecture
-- Researching deep learning for molecular structure generation with target properties
+### 🧠 AI & Robotics Research
+ 
+**Distributed VLA Inference for Autonomous Manipulation**
+> Safety-critical architecture for VLA (Vision-Language-Action) models under cloud-offloaded inference. Introduces a Latent Intent Vector (LIV) extracted from action-vision cross-attention, enabling real-time onboard anomaly detection during network latency — allowing more aggressive inference cycles without sacrificing safety. Part of a larger drone + robotic-arm system for extreme/disaster-response environments.
+ 
+**Property-Conditioned Molecular Generation**
+> Graph diffusion model for generating drug-like molecules conditioned on target quantum-chemical properties (HOMO/LUMO, dipole, etc.), trained on QMugs. Built on an absorbing discrete diffusion formulation (DiGress-style) with a custom Graph Transformer denoiser — diagnosing and fixing bond-validity bottlenecks through small-scale overfitting experiments.
+ 
+**Vision-Based End-to-End Indoor Navigation (DeliBot)**
+> Lightweight E2E navigation model for indoor mobile robots, combining AprilTag-anchored localization with topology-map planning and behavior cloning — designed to run without SLAM, GPS, or HD maps under tight hardware constraints.
 
 ---
 
